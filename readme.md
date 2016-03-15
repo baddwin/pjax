@@ -1,4 +1,6 @@
-## PJAX for Laravel 5.*
+# PJAX for Laravel 5.*
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/jacobbennett/pjax.svg?style=flat-square)](https://packagist.org/packages/jacobbennett/pjax)
+[![Total Downloads](https://img.shields.io/packagist/dt/jacobbennett/pjax.svg?style=flat-square)](https://packagist.org/packages/jacobbennett/pjax)
 
 Enable the use of PJAX in Laravel 5.*.
 
